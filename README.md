@@ -1,0 +1,2 @@
+# Openstack-Deployment
+いろいろな方法でopenstackをdeployしてみるメモ

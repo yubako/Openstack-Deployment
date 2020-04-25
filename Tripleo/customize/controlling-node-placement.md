@@ -39,8 +39,8 @@ parameter_defaults:
 --- 記載内容 ---
 parameter_defaults:
   HostnameMap:
-    %stackname%-controller-0: controller
-    %stackname%-novacompute-0: compute001
+    overcloud-controller-0: controller
+    overcloud-novacompute-0: compute001
 --- ここまで ---
 ```
 
